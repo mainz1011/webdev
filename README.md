@@ -6,7 +6,7 @@ We are a group of three members.
 
 - Member 2:  ******, ******, ******@tuni.fi, resposible for: API and data models, gitLab issues & mocha tests
 
-- Member 3:  Hui Yin, 150163114, hui.yin@tuni.fi, resposible for: client (UI), documentation (first part)
+- Member 3:  Hui Yin, 150163114, hui.yin@tuni.fi, resposible for: front-end (client UI), documentation (first part)
 
 # Website instruction
 
